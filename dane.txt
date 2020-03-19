@@ -1,0 +1,13 @@
+drzewo tree
+pies dog
+krowa cow
+jablko apple
+brzoskwinia peach
+gruszka pear
+samochod car
+wilk wolf
+swiadomosc awareness
+istnienie existence
+ogien fire
+woda water
+kotek cat
